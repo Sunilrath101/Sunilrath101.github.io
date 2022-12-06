@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4c8d5c2b.css",
-    "main.js": "/static/js/main.945dff63.js",
+    "main.js": "/static/js/main.b4a8a7f1.js",
     "static/media/jiomart.png": "/static/media/jiomart.991ec5e898febcfad0a6.png",
     "static/media/Sunil_Singh Rathor_Resume_20-11-2022-21-33-54.pdf": "/static/media/Sunil_Singh Rathor_Resume_20-11-2022-21-33-54.9ef77bbb427b064fab14.pdf",
     "static/media/react-240.png": "/static/media/react-240.f2dc55b6e5f884cdd91b.png",
@@ -9,10 +9,10 @@
     "static/media/mongodb-240.png": "/static/media/mongodb-240.ac47c497a10891dc7bed.png",
     "index.html": "/index.html",
     "main.4c8d5c2b.css.map": "/static/css/main.4c8d5c2b.css.map",
-    "main.945dff63.js.map": "/static/js/main.945dff63.js.map"
+    "main.b4a8a7f1.js.map": "/static/js/main.b4a8a7f1.js.map"
   },
   "entrypoints": [
     "static/css/main.4c8d5c2b.css",
-    "static/js/main.945dff63.js"
+    "static/js/main.b4a8a7f1.js"
   ]
 }
