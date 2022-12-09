@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.44fef459.css",
-    "main.js": "/static/js/main.3b12d047.js",
+    "main.css": "/static/css/main.bf890277.css",
+    "main.js": "/static/js/main.fb0cbc64.js",
     "static/media/jiomart.png": "/static/media/jiomart.991ec5e898febcfad0a6.png",
     "static/media/Sunil_Singh Rathor_Resume_20-11-2022-21-33-54.pdf": "/static/media/Sunil_Singh Rathor_Resume_20-11-2022-21-33-54.9ef77bbb427b064fab14.pdf",
     "static/media/react-240.png": "/static/media/react-240.f2dc55b6e5f884cdd91b.png",
     "static/media/redux-240.png": "/static/media/redux-240.8442924faa3925456ec8.png",
     "static/media/mongodb-240.png": "/static/media/mongodb-240.ac47c497a10891dc7bed.png",
     "index.html": "/index.html",
-    "main.44fef459.css.map": "/static/css/main.44fef459.css.map",
-    "main.3b12d047.js.map": "/static/js/main.3b12d047.js.map"
+    "main.bf890277.css.map": "/static/css/main.bf890277.css.map",
+    "main.fb0cbc64.js.map": "/static/js/main.fb0cbc64.js.map"
   },
   "entrypoints": [
-    "static/css/main.44fef459.css",
-    "static/js/main.3b12d047.js"
+    "static/css/main.bf890277.css",
+    "static/js/main.fb0cbc64.js"
   ]
 }
