@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.881a1fc3.css",
-    "main.js": "/static/js/main.7c1cf785.js",
+    "main.js": "/static/js/main.ab0cfb4c.js",
     "static/media/jiomart.png": "/static/media/jiomart.991ec5e898febcfad0a6.png",
     "static/media/stayFit.png": "/static/media/stayFit.aabb4194f782470d5c2c.png",
-    "static/media/Sunil_Singh Rathor_Resume_20-11-2022-21-33-54.pdf": "/static/media/Sunil_Singh Rathor_Resume_20-11-2022-21-33-54.9ef77bbb427b064fab14.pdf",
+    "static/media/Sunil_Rathor_Resume.pdf": "/static/media/Sunil_Rathor_Resume.281d470219c2b14957b8.pdf",
     "static/media/buffer.png": "/static/media/buffer.ce6b58765eef5e1e3378.png",
     "static/media/react-240.png": "/static/media/react-240.f2dc55b6e5f884cdd91b.png",
     "static/media/redux-240.png": "/static/media/redux-240.8442924faa3925456ec8.png",
     "static/media/mongodb-240.png": "/static/media/mongodb-240.ac47c497a10891dc7bed.png",
     "index.html": "/index.html",
     "main.881a1fc3.css.map": "/static/css/main.881a1fc3.css.map",
-    "main.7c1cf785.js.map": "/static/js/main.7c1cf785.js.map"
+    "main.ab0cfb4c.js.map": "/static/js/main.ab0cfb4c.js.map"
   },
   "entrypoints": [
     "static/css/main.881a1fc3.css",
-    "static/js/main.7c1cf785.js"
+    "static/js/main.ab0cfb4c.js"
   ]
 }
