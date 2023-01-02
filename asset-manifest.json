@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c5b4cf87.css",
-    "main.js": "/static/js/main.a9306d8e.js",
+    "main.js": "/static/js/main.81a82260.js",
     "static/media/jiomart.png": "/static/media/jiomart.991ec5e898febcfad0a6.png",
     "static/media/stayFit.png": "/static/media/stayFit.aabb4194f782470d5c2c.png",
     "static/media/Sunil_Rathor_Resume.pdf": "/static/media/Sunil_Rathor_Resume.281d470219c2b14957b8.pdf",
@@ -11,10 +11,10 @@
     "static/media/mongodb-240.png": "/static/media/mongodb-240.ac47c497a10891dc7bed.png",
     "index.html": "/index.html",
     "main.c5b4cf87.css.map": "/static/css/main.c5b4cf87.css.map",
-    "main.a9306d8e.js.map": "/static/js/main.a9306d8e.js.map"
+    "main.81a82260.js.map": "/static/js/main.81a82260.js.map"
   },
   "entrypoints": [
     "static/css/main.c5b4cf87.css",
-    "static/js/main.a9306d8e.js"
+    "static/js/main.81a82260.js"
   ]
 }
